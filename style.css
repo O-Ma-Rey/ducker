@@ -128,7 +128,7 @@ See the 2 styles below for an alternative approach using animations. */
 } */
 
 /* Alternative approach to animate the duck when on the river - for StackBlitz only */
-.river.duck {
+/* .river.duck {
   animation: changeRiverDuckImage 0.6s step-start;
 }
 @keyframes changeRiverDuckImage {
@@ -148,7 +148,7 @@ See the 2 styles below for an alternative approach using animations. */
     background-image: url('./images/duck-walk/duck-walk-4.png'),
       url('./images/wood.png');
   }
-}
+} */
 
 .time-up,
 .duck-arrived {
